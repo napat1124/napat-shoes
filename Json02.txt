@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "name": "Nike Air Force 1",
+    "price": 120,
+    "image_url": "https://raw.githubusercontent.com/napat1124/Napats-Shoes/main/assets/images/Nikke.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Adidas Samba",
+    "price": 110,
+    "image_url": "https://raw.githubusercontent.com/napat1124/Napats-Shoes/main/assets/images/Samba.jpg"
+  },
+  {
+    "id": "3",
+    "name": "New Balance 550",
+    "price": 130,
+    "image_url": "https://raw.githubusercontent.com/napat1124/Napats-Shoes/main/assets/images/Nb550.jpg"
+  }
+]
